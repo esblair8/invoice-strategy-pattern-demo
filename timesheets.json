@@ -1,0 +1,40 @@
+[
+  {
+    "timesheetId": "TS001",
+    "clientId": "client-01",
+    "lineItems": [
+      {"well": "Well-01",  "amount": 1000.00},
+      {"well": "Well-01",  "amount": 1200.50},
+      {"well": "Well-01",  "amount": 1150.75},
+      {"well": "Well-01",  "amount": 1300.00},
+      {"well": "Well-02",  "amount": 1100.25},
+      {"well": "Well-02",  "amount": 1250.00},
+      {"well": "Well-02",  "amount": 1175.50},
+      {"well": "Well-03",  "amount": 1325.75},
+      {"well": "Well-03",  "amount": 1450.00},
+      {"well": "Well-04",  "amount": 1550.25}
+    ]
+  },
+  {
+    "timesheetId": "TS002",
+    "clientId": "client-02",
+    "lineItems": [
+      {"well": "Well-01",  "amount": 1000.00},
+      {"well": "Well-01",  "amount": 1200.50},
+      {"well": "Well-03",  "amount": 1325.75},
+      {"well": "Well-03",  "amount": 1450.00},
+      {"well": "Well-06",  "amount": 1550.25}
+    ]
+  },
+  {
+    "timesheetId": "TS003",
+    "clientId": "client-03",
+    "lineItems": [
+      {"well": "Well-01",  "amount": 1000.00},
+      {"well": "Well-01",  "amount": 1200.50},
+      {"well": "Well-03",  "amount": 1325.75},
+      {"well": "Well-03",  "amount": 1450.00},
+      {"well": "Well-06",  "amount": 1550.25}
+    ]
+  }
+]
